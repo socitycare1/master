@@ -1,0 +1,35 @@
+{
+  "name": "SocityCare",
+  "version": "1.8.0",
+  "description": "App for Easy Manage the maintinance of any type of socity !!",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "prop-types": "^15.7.2",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "~9.1.0"
+  },
+  "keywords": [],
+  "author": "Creative Mahesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "http://phpmahesh.blogspot.com/"
+  },
+  "homepage": "http://phpmahesh.blogspot.com/"
+}
